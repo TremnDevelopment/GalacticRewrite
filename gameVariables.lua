@@ -5,6 +5,9 @@ return {
         ['AimbotHealthCheck'] = true,
         ['ESPEnabled'] = false,
         ['ESPNametagEnabled'] = false,
+        ['ESPBoxEnabled'] = false,
+        ['ESPTeamCheck'] = true,
+        ['ESPHealthCheck'] = true,
         ['isAiming'] = false
     }
 }
