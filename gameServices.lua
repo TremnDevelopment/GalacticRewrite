@@ -3,5 +3,6 @@ return {
     ['Players'] = game:GetService("Players"),
     ['Workspace'] = game:GetService('Workspace'),
     ['RunService'] = game:GetService("RunService"),
-    ['ReplicatedStorage'] = game:GetService("ReplicatedStorage")
+    ['ReplicatedStorage'] = game:GetService("ReplicatedStorage"),
+    ['Teams'] = game:GetService('Teams')
 }
