@@ -2,6 +2,7 @@ return {
     ['Arsenal'] = {
         ['AimbotEnabled'] = false,
         ['ESPEnabled'] = false,
-        ['ESPNametagEnabled'] = false
+        ['ESPNametagEnabled'] = false,
+        ['isAiming'] = false
     }
 }
