@@ -9,6 +9,9 @@ return {
         ['ESPTeamCheck'] = true,
         ['ESPHealthCheck'] = true,
         ['isAiming'] = false,
-        ['currentTarget'] = nil
+        ['currentTarget'] = nil,
+        ['HitboxSize'] = 13,
+        ['CustomWalkspeedEnabled'] = false,
+        ['CustomWalkspeed'] = 25
     }
 }
