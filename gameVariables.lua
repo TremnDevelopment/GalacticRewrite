@@ -12,6 +12,12 @@ return {
         ['currentTarget'] = nil,
         ['HitboxSize'] = 13,
         ['CustomWalkspeedEnabled'] = false,
-        ['CustomWalkspeed'] = 25
+        ['CustomWalkspeed'] = 25,
+        ['WeaponModifications'] = {
+            ['RecoilControl'] = 0,
+            ['FireRate'] = 0.02,
+            ['Automatic'] = true,
+            ['AmmoStorage'] = 999
+        }
     }
 }
