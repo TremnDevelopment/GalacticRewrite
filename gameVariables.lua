@@ -8,6 +8,7 @@ return {
         ['ESPBoxEnabled'] = false,
         ['ESPTeamCheck'] = true,
         ['ESPHealthCheck'] = true,
-        ['isAiming'] = false
+        ['isAiming'] = false,
+        ['currentTarget'] = nil
     }
 }
